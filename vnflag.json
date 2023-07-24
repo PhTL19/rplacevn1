@@ -3,7 +3,7 @@
   "contact": "rPlaceVN",
   "templates": [
     {
-      "name": "r/place VN",
+      "name": "placeVN",
       "sources": [
         "https://place.japao.dev/orders/ece08ba2-39d2-422d-b0f2-8e3085ce4d10.png"
       ],
@@ -11,7 +11,7 @@
       "y": 230
     },
     {
-      "name":"đời",
+      "name":"placeFlpB",
       "sources":[
         "https://place.japao.dev/orders/03413963-6bd1-414f-b068-532263d4350b.png"
       ],
