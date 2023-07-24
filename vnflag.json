@@ -7,15 +7,15 @@
       "sources": [
         "https://place.japao.dev/orders/ece08ba2-39d2-422d-b0f2-8e3085ce4d10.png"
       ],
-      "x": 147,
-      "y": 230
+      "x": 1647,
+      "y": 1230
     },
     {
       "name":"placeFlpB",
       "sources":[
         "https://place.japao.dev/orders/03413963-6bd1-414f-b068-532263d4350b.png"
       ],
-      "x":-1370,
-      "y":-65}
+      "x":130,
+      "y":935}
   ]
 }
