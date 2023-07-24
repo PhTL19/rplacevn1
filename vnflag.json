@@ -1,17 +1,20 @@
 {
+  "faction":"r/placevietnam",
   "contact": "rPlaceVN",
   "templates": [
     {
       "name": "r/place VN",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131430494647636029/1132798304518938684/vntemp.png"
+        "https://place.japao.dev/orders/ece08ba2-39d2-422d-b0f2-8e3085ce4d10.png"
       ],
       "x": 147,
       "y": 230
     },
     {
       "name":"đời",
-      "sources":["https://place.japao.dev/orders/03413963-6bd1-414f-b068-532263d4350b.png"],
+      "sources":[
+        "https://place.japao.dev/orders/03413963-6bd1-414f-b068-532263d4350b.png"
+      ],
       "x":-1370,
       "y":-65}
   ],
